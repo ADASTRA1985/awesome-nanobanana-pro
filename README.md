@@ -8,11 +8,11 @@
 
 This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model. 
 
-### Sponsor1: [Free Sora Watermark Remover(Remove Sora logo under 3 seconds, up to 5 batch tasks)](https://thesorawatermarkremover.com?utm_source=banana)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/5a8fdc04-aeef-4ca8-9fda-4de3a6ca6109" />](https://thesorawatermarkremover.com?utm_source=banana)[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/7d29fbb9-dfe3-421b-bee4-d29f253dfcaa" />](https://thesorawatermarkremover.com?utm_source=banana)
+### Sponsor1: [Access Seedance 2.0 Now on Cyberbara!](https://cyberbara.com?utm_source=banana)
+[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://cyberbara.com?utm_source=banana)
 
-### Sponsor2: [Access Seedance 2.0 Now on Cyberbara!](https://cyberbara.com?utm_source=banana)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/a8b5c1bd-c7c4-4bb8-9fd8-ff5147810b04" />](https://cyberbara.com?utm_source=banana)
+### Sponsor2: [Free Sora Watermark Remover(Remove Sora logo under 3 seconds, up to 5 batch tasks)](https://thesorawatermarkremover.com?utm_source=banana)
+[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/5a8fdc04-aeef-4ca8-9fda-4de3a6ca6109" />](https://thesorawatermarkremover.com?utm_source=banana)[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/7d29fbb9-dfe3-421b-bee4-d29f253dfcaa" />](https://thesorawatermarkremover.com?utm_source=banana)
 
 This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
 
